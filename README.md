@@ -15,7 +15,8 @@ IT skills: Python, Pandas, NumPy, SQL, Power BI, Excel, PowerPoint, Git, Classic
 My motivation is to work and develop in the field of Data Analysis/ Data Science. I am personally interested in this. 
 There is a goal to enroll in the Yandex School of Data Analysis or a similar master's degree program.
 
-Мои контакты / My contacts:                                                                                                                                                                --	e-mail:  vdmtkhnv@gmail.com                                                                                                                                                           -	телеграм:  https://t.me/Vadim_Tihonov                                                                                                                                                   - профиль на Stepik:  https://stepik.org/users/384942328
+Мои контакты / My contacts:                                                                                                                                                                
+-	e-mail:  vdmtkhnv@gmail.com                                                                                                                                                             -	телеграм:  https://t.me/Vadim_Tihonov                                                                                                                                                   - профиль на Stepik:  https://stepik.org/users/384942328
 
 
 <!--
