@@ -21,7 +21,8 @@ There is a goal to enroll in the Yandex School of Data Analysis or a similar mas
 - профиль на Stepik:  https://stepik.org/users/384942328
 
 Мои репозитории / My Repositories
-| name |  link |
+| name |  link                   |
+|:-    | :---------------------- |
 | проекты по курсу Специалист по Data Science Яндекс.Практикум |  () |
 | работы, проекты по Excel |  () |
 
