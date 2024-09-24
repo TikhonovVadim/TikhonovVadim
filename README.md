@@ -21,10 +21,11 @@ There is a goal to enroll in the Yandex School of Data Analysis or a similar mas
 - профиль на Stepik:  https://stepik.org/users/384942328
 
 Мои репозитории / My Repositories
-| название репозитория / name repositories | 
-|:-                                        | 
-| [проекты по курсу Специалист по Data Science Яндекс.Практикум](https://github.com/TikhonovVadim/DS_projects_and_portfolio/blob/main/README.md) |  
-| работы, проекты по Excel |  
+| название репозитория / name repositories |  комментарий / comment |
+|:-                                        | :-                     | 
+| [проекты по курсу Специалист по Data Science Яндекс.Практикум](https://github.com/TikhonovVadim/DS_projects_and_portfolio/blob/main/README.md) |    |
+| работы, проекты по Excel |  подготовка  | 
+| работы, проекты по  Power BI |  подготовка  |
 
 <!--
 **TikhonovVadim/TikhonovVadim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
