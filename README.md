@@ -5,17 +5,15 @@
 Навыки в ИТ: Python, Pandas, NumPy, Matplotlib, SQL, Excel, Power Query, Power BI, PowerPoint, Git, Классический ML.
 Моя мотивация - развитие в сфере в Анализа данных/ Data Science. 
 Мне это лично интересно. 
-Есть цель поступить в ШАД (Школа анализа данных Яндекс) или аналогичного уровня Магистратуру.
-Мои интересы  - IT, анализ данных, экономика, социология, история, развитие обществ, психология, нейробиология, исследования мозга.
-Мои увлечения – футбол, баскетбол, волейбол, плавание, шахматы, авто путешествия, походы, хорошее кино, музыка, книги.
+Мои интересы  - IT, анализ данных, экономика, социология, история, психология, нейробиология.
+Мои увлечения – футбол, баскетбол, волейбол, плавание, шахматы, авто путешествия, походы, кино, музыка, книги.
 
 My name is Vadim Tikhonov
 I have an economics degree, worked in marketing for several years in various FMCG and B2B companies, and have been studying Data Analysis and Data Science for the last 4 years.
 IT skills: Python, Pandas, NumPy, Matplotlib, SQL, Excel, Power Query, Power BI, PowerPoint, Git, Classic ML.
 My motivation is to develop in the field of Data Analysis/ Data Science. I am personally interested in this. 
-There is a goal to enroll in the Yandex School of Data Analysis or a similar master's degree program.
-My interests are IT, data analysis, economics, sociology, history, social development, psychology, neuroscience, brain research.
-My hobbies are football, basketball, volleyball, swimming, chess, car travel, hiking, good movies, music, books.
+My interests are IT, data analysis, economics, sociology, history, psychology, neuroscience.
+My hobbies are football, basketball, volleyball, swimming, chess, car travel, hiking, movies, music, books.
 
 Мои контакты / My contacts:                                                                                                                                                                
 -	e-mail:  vdmtkhnv@gmail.com                                                                                                                                                            
