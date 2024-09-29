@@ -26,8 +26,8 @@ My hobbies are football, basketball, volleyball, swimming, chess, car travel, hi
 | название репозитория / name repositories |  комментарий / comment |
 |:-                                        | :-                     | 
 | [проекты по курсу Специалист по Data Science Яндекс.Практикум](https://github.com/TikhonovVadim/DS_projects_and_portfolio/blob/main/README.md) |    |
-| работы, проекты по Excel |  подготовка  | 
-| работы, проекты по  Power BI |  подготовка  |
+| работы, проекты по Power BI, Excel |  подготовка  | 
+| работы, проекты Kaggle |  подготовка  |
 
 <!--
 **TikhonovVadim/TikhonovVadim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
