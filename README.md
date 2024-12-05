@@ -4,7 +4,7 @@
 Экономическое образование, несколько лет работал в маркетинге, занимался анализом данных в разных компаниях FMCG и B2B.
 Составлял аналитические отчеты.
 Навыки: Excel, Power Query, Power BI, SQL, Python, Pandas, NumPy, Matplotlib, SQL, Git, Классический ML.
-Моя мотивация - развитие в сфере в Анализа данных. 
+Моя мотивация - развитие в сфере в Анализа данных / Data Science. 
 Мне это лично интересно. 
 Мои интересы  - анализ данных, экономика, социология, история, психология.
 Мои увлечения – футбол, баскетбол, волейбол, плавание, шахматы, авто путешествия, походы, кино, музыка, книги.
@@ -13,7 +13,7 @@ My name is Vadim Tikhonov
 Economics education, worked in marketing for several years, was engaged in data analysis in various FMCG and B2B companies.
 He compiled analytical reports.
 Skills: Excel, Power Query, Power BI, SQL, Python, Pandas, NumPy, Matplotlib, SQL, Git, Classic ML.
-My motivation is to develop in the field of Data Analysis.
+My motivation is to develop in the field of Data Analysis / Data Science.
 My interests are data analysis, economics, sociology, history, psychology.
 My hobbies are football, basketball, volleyball, swimming, chess, car travel, hiking, movies, music, books.
 
