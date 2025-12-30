@@ -27,7 +27,7 @@ My hobbies are football, basketball, volleyball, swimming, chess, car travel, hi
 |:-                                        | :-                     | 
 | [проекты по курсу Специалист по Data Science Яндекс / projects for the Yandex Data Science Specialist course](https://github.com/TikhonovVadim/DS_projects_and_portfolio/blob/main/README.md) |    |
 | [работы, проекты по Анализу данных в Power BI, Excel / works, projects on data analysis in Power BI, Excel](https://drive.google.com/drive/folders/1LBQK30JjYJrSwf_mC-cej7CTAe-OXxTv?usp=sharing) |    | 
-| [SQL] |   |
+| [SQL](https://github.com/TikhonovVadim/sql-advent-calendar-solutions) |   |
 | [работы, проекты Kaggle / Kaggle's works and projects] |  подготовка / preparation |
 
 <!--
