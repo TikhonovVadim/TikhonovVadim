@@ -19,7 +19,7 @@ My hobbies are football, basketball, volleyball, swimming, chess, car travel, hi
 
 Мои контакты / My contacts:                                                                                                                                                                
 -	e-mail:  vdmtkhnv@gmail.com                                                                                                                                                            
--	телеграм:  @Vadim_Tihonov                                                                                                                                                   
+-	телеграм:  @Vadim_Tihonov                                                                                                                                                  
 - профиль на Stepik:  https://stepik.org/users/384942328
 
 Мои репозитории с рабочими проектами / My repositories with working projects
