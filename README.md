@@ -1,7 +1,7 @@
 # Добрый день / Hi there 👋
 
 Меня зовут Вадим Тихонов.
-Экономическое образование, несколько лет работал в маркетинге, занимался анализом данных в разных компаниях FMCG и B2B.
+Экономическое образование. Несколько лет работал в маркетинге, занимался анализом данных в разных компаниях FMCG и B2B.
 Составлял аналитические отчеты.
 Навыки: Excel, Power Query, Power BI, SQL, Python, Pandas, NumPy, Matplotlib, SQL, Git, Классический ML.
 Моя мотивация - развитие в сфере в Анализа данных / Data Science. 
@@ -10,7 +10,7 @@
 Мои увлечения – футбол, баскетбол, волейбол, плавание, шахматы, авто путешествия, походы, кино, музыка, книги.
 
 My name is Vadim Tikhonov.
-Economics education, worked in marketing for several years, was engaged in data analysis in various FMCG and B2B companies.
+Economics education. Worked in marketing for several years, was engaged in data analysis in various FMCG and B2B companies.
 He compiled analytical reports.
 Skills: Excel, Power Query, Power BI, SQL, Python, Pandas, NumPy, Matplotlib, SQL, Git, Classic ML.
 My motivation is to develop in the field of Data Analysis / Data Science.
@@ -27,6 +27,7 @@ My hobbies are football, basketball, volleyball, swimming, chess, car travel, hi
 |:-                                        | :-                     | 
 | [проекты по курсу Специалист по Data Science Яндекс / projects for the Yandex Data Science Specialist course](https://github.com/TikhonovVadim/DS_projects_and_portfolio/blob/main/README.md) |    |
 | [работы, проекты по Анализу данных в Power BI, Excel / works, projects on data analysis in Power BI, Excel](https://drive.google.com/drive/folders/1LBQK30JjYJrSwf_mC-cej7CTAe-OXxTv?usp=sharing) |    | 
+| [SQL] |   |
 | [работы, проекты Kaggle / Kaggle's works and projects] |  подготовка / preparation |
 
 <!--
