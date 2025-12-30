@@ -1,25 +1,23 @@
 # Добрый день / Hi there 👋
 
 Меня зовут Вадим Тихонов.
-Экономическое образование. Несколько лет работал в маркетинге, занимался анализом данных в разных компаниях FMCG и B2B.
-Составлял аналитические отчеты.
+Экономическое образование. Много лет работаю в компаниях FMCG, B2B - занимаюсь анализом данных.
 Навыки: Excel, Power Query, Power BI, SQL, Python, Pandas, NumPy, Matplotlib, SQL, Git, Классический ML.
 Моя мотивация - развитие в сфере в Анализа данных / Data Science. 
 Мне это лично интересно. 
-Мои интересы  - анализ данных, экономика, социология, история, психология.
+Мои интересы  - анализ данных, экономика, социология, история, психология, новые технологии.
 Мои увлечения – футбол, баскетбол, волейбол, плавание, шахматы, авто путешествия, походы, кино, музыка, книги.
 
 My name is Vadim Tikhonov.
-Economics education. Worked in marketing for several years, was engaged in data analysis in various FMCG and B2B companies.
-He compiled analytical reports.
+Economics education. I have been working in FMCG and B2B companies for many years, doing data analysis.
 Skills: Excel, Power Query, Power BI, SQL, Python, Pandas, NumPy, Matplotlib, SQL, Git, Classic ML.
 My motivation is to develop in the field of Data Analysis / Data Science.
-My interests are data analysis, economics, sociology, history, psychology.
+My interests are data analysis, economics, sociology, history, psychology, new technologies.
 My hobbies are football, basketball, volleyball, swimming, chess, car travel, hiking, movies, music, books.
 
 Мои контакты / My contacts:                                                                                                                                                                
 -	e-mail:  vdmtkhnv@gmail.com                                                                                                                                                            
--	телеграм:  https://t.me/Vadim_Tihonov                                                                                                                                                   
+-	телеграм:  @Vadim_Tihonov                                                                                                                                                   
 - профиль на Stepik:  https://stepik.org/users/384942328
 
 Мои репозитории с рабочими проектами / My repositories with working projects
