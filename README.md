@@ -1,7 +1,8 @@
 # Добрый день / Hi there 👋
 
 Меня зовут Вадим Тихонов.
-Экономическое образование. Много лет работаю в компаниях FMCG, B2B - занимаюсь анализом данных.
+У меня экономическое образование, плюс дополнительно изучал: маркетинг, анализ данных, data science.
+Много лет работаю в компаниях FMCG, B2B - занимаюсь анализом данных.
 Навыки: Excel, Power Query, Power BI, SQL, Python, Pandas, NumPy, Matplotlib, SQL, Git, Классический ML.
 Моя мотивация - развитие в сфере в Анализа данных / Data Science. 
 Мне это лично интересно. 
@@ -9,7 +10,8 @@
 Мои увлечения – футбол, баскетбол, волейбол, плавание, шахматы, авто путешествия, походы, кино, музыка, книги.
 
 My name is Vadim Tikhonov.
-Economics education. I have been working in FMCG and B2B companies for many years, doing data analysis.
+I have an economics degree, plus I additionally studied marketing, data analysis, and data science.
+I have been working in FMCG and B2B companies for many years, doing data analysis.
 Skills: Excel, Power Query, Power BI, SQL, Python, Pandas, NumPy, Matplotlib, SQL, Git, Classic ML.
 My motivation is to develop in the field of Data Analysis / Data Science.
 My interests are data analysis, economics, sociology, history, psychology, new technologies.
