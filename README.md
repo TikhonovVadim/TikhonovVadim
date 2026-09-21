@@ -23,7 +23,7 @@ My hobbies are football, basketball, volleyball, swimming, chess, car travel, hi
 | название репозитория / name repositories |  комментарий / comment |
 |:-                                        | :-                     | 
 | [проекты Data Science/ projects Data Science](https://github.com/TikhonovVadim/DS_projects_and_portfolio/blob/main/README.md) |    |
-| [работы, проекты по Анализу данных в Power BI / works, projects on data analysis in Power BI ](https://drive.google.com/drive/folders/1LBQK30JjYJrSwf_mC-cej7CTAe-OXxTv?usp=sharin) |    | 
+| [работы, проекты по Анализу данных в Power BI / works, projects on data analysis in Power BI ](https://drive.google.com/drive/folders/1ZcSqTyVKRMWUPoXzxIABaK7CZw7AN0ax?usp=sharing) |    | 
 | [SQL](https://github.com/TikhonovVadim/sql-advent-calendar-solutions) |   |
 | [работы, проекты Kaggle / Kaggle's works and projects] |  подготовка / preparation |
 
